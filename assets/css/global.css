@@ -1,0 +1,12 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+.area{
+    height: 100vh;
+    width: 50%;}
+.btn{
+    border-radius: 30px;
+    padding: 20px 10px;}
+.decoration-none{text-decoration: none;}
+.back-purple{background-color: #8781ff;}

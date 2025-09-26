@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    margin: 0;
+    font-family: "Inter", sans-serif;}
+.main{
+    height: 100vh;
+    width: 100%;}
+.main .right .card{
+    width: 30%;
+    height: 40%;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 20px;}
+.main .right .card .input{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;}
+.main .right .card .input input{
+    padding-left: 30px;
+    outline: none;
+    border: 1px solid gray;}
+.main .right .card .input a{
+    text-align: center;
+    color: #ffffff;}
+.main .right .card .input a:hover{background-color: #9792ff;}
+.main .right .card .forgot{margin-top: 20px;}
+.main .right .card .forgot a{color: black;}
+.main .right .card .forgot a:hover{color: #6b6b6b;}
